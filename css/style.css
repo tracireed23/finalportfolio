@@ -4,5 +4,81 @@ body {
 	text-align: center;
 }
 
+title {
+	font-size: 36px;
+	font-weight: 500;
+}
+
+
+
+/*buttons and links */
+a {
+	color: #b70064;
+}
+
+a:hover {
+    color: #b771c1;
+}
+
+.btn {
+	background-color: #b771c1;
+	border: solid black;
+	text-align: center;
+
+}
+
+/******************/
+
+
+
+
+.jumbotron {
+	background-color: #92e0c8;
+	border: solid;
+}
+
+#moreinfo {
+	margin-top: 5%;
+	margin-left: 10%;
+}
+
+.thumbnail {
+	background-color: #92e0c8;
+	border: solid;
+}
+
+.caption h3 {
+	text-decoration: underline;
+}
+
+#webdesignpic {
+	border: solid black;
+	max-width: none;
+	height: 200px;
+
+
+}
+
+/* Carousels */
+
+.item {
+	position: absolute;
+  	top: 0;
+  	left: 0;
+  	min-width: 100%;
+  	max-height: 300px;
+  	max-width: none;
+  
+}
+/*************/
+
+
+footer {
+	margin-top: 10%;
+}
+
 /* FONTS */
 /* font-family: 'Covered By Your Grace', cursive; */
+
+/* colors */
+/* b70064 #92e0c8 #3f002e*/
