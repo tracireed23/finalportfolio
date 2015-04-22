@@ -67,6 +67,11 @@ a:hover {
 	max-height: 300px;
 }
 
+#aboutmepic {
+	max-width: 90%;
+	max-height: 300px;
+}
+
 /************/
 
 /* Carousels */
