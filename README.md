@@ -1,1 +1,3 @@
 # finalportfolio
+
+This is my final project for Web Foundations. I decided that instead of redoing the Chiropractic site we did in primer, that I would redo my portfolio, because it is something that I can use in my everyday life. I am an artist, I do anything that envolves creativity. I like drawing, painting, tattooing, lots of pinterest/diy projects, you name it I pretty much do it. So having an online portfolio would be nice to have! 
