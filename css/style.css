@@ -18,6 +18,7 @@ a {
 
 a:hover {
     color: #b771c1;
+    text-decoration: none;
 }
 
 .btn {
