@@ -11,6 +11,7 @@ title {
 
 
 
+
 /*buttons and links */
 a {
 	color: #b70064;
@@ -52,13 +53,21 @@ a:hover {
 	text-decoration: underline;
 }
 
+/* Images */
+
 #webdesignpic {
 	border: solid black;
 	max-width: none;
 	height: 200px;
 
-
 }
+
+#artlogo {
+	max-width: 90%;
+	max-height: 300px;
+}
+
+/************/
 
 /* Carousels */
 
@@ -89,18 +98,7 @@ footer {
 
 
 /* Artwork page */
-
-#artworkpicspage ul {
-	list-style: none;
-
-}
-
-#artworkpicspage img {
-	max-height: 300px;
-	margin: 5%;
-	max-width: 90%
-
-}
+/****************/
 
 
 
