@@ -82,3 +82,25 @@ footer {
 
 /* colors */
 /* b70064 #92e0c8 #3f002e*/
+
+
+
+
+
+/* Artwork page */
+
+#artworkpicspage ul {
+	list-style: none;
+
+}
+
+#artworkpicspage img {
+	max-height: 300px;
+	margin: 5%;
+	max-width: 90%
+
+}
+
+
+
+
